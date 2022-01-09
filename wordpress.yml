@@ -1,6 +1,7 @@
 ---
 - name: deploy wordpress using a role
-  hosts: worker02:wocker03
+  hosts:
+    - all
   become: true
   roles:
     - docker_role
