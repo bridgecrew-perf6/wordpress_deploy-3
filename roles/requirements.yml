@@ -1,2 +1,5 @@
+
 - src: https://github.com/itirenegad/docker_role.git
+- src: itirenegad.docker_role
+- src: itirenegad.wordpress_role
 - src: https://github.com/itirenegad/wordpress_role.git
